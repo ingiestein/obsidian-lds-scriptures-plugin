@@ -11,7 +11,7 @@ import { VerseSuggestion } from "./VerseSuggestion";
 import { GenConSuggestion } from "./GenConSuggestion";
 
 const VERSE_REG = /\:MC.*;/i;
-const FULL_VERSE_REG = /\:MC ([123]*[A-z ]{3,}) (\d{1,3}):(.*);/i;
+const FULL_VERSE_REG = /\:MC ([123]*[A-z \.-]{3,}) (\d{1,3}):(.*);/i;
 const GEN_CON_CITE_REG =
     /\:MC https:\/\/www\.churchofjesuschrist\.org\/study\/general-conference\/\d{1,4}\/\d{1,2}\/[\w-]+\?lang=\w+/;
 const GEN_CON_REG =
