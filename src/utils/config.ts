@@ -52,12 +52,12 @@ export const book_data:BookData = {
     "js-m": {
       "volume": "pgp",
       "n_ch": 1,
-      "names": ["Joseph Smith—Matthew", "JS—M"]
+      "names": ["Joseph Smith—Matthew", "JS—M", "Joseph Smith-Matthew", "Joseph Smith Matthew", "JS-M"]
     },
     "js-h": {
       "volume": "pgp",
       "n_ch": 1,
-      "names": ["Joseph Smith—History", "JS—H"]
+      "names": ["Joseph Smith—History", "JS—H", "Joseph Smith-History", "Joseph Smith History", "JS-H"]
     },
     "a-of-f": {
       "volume": "pgp",
@@ -67,7 +67,7 @@ export const book_data:BookData = {
     "dc": {
       "volume": "dc-testament",
       "n_ch": 138,
-      "names": ["Doctrine and Covenants", "D&C"]
+      "names": ["Doctrine and Covenants", "D&C", "D+C"]
     },
     "gen": { "volume": "ot", "n_ch": 50, "names": ["Genesis", "Gen."] },
     "ex": { "volume": "ot", "n_ch": 40, "names": ["Exodus", "Ex."] },
