@@ -1,3 +1,6 @@
+This fork has been merged into the original
+
+
 # LDS Library Reference Plugin for Obsidian
 
 Easily insert your favorite scripture verses and selections from General Conference talks into Obsidian!
